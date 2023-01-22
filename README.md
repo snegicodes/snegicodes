@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sarthak Negi</h1>
-<h3 align="center">An aspiring developer based in India.</h3>
+<h3 align="center">An aspiring frontend developer based in India 🇮🇳.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaknegigit&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaknegigit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/snegicodes" target="blank"><img src="https://img.shields.io/twitter/follow/snegicodes?logo=twitter&style=for-the-badge" alt="snegicodes" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, ReactJs, NodeJs**
 
-- 💬 Ask me about **Python, Numpy, Pandas, Mediapipe**
+- 💬 Ask me about **Python, Numpy, Pandas.**
 
 - 📫 How to reach me **snegicodes@gmail.com**
 
