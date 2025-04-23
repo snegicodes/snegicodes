@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snegicodes&show_icons=true&locale=en&layout=compact" alt="snegicodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snegicodes&show_icons=true&locale=en" alt="snegicodes" /></p>
+
